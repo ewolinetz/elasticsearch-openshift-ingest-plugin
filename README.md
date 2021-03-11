@@ -1,0 +1,1 @@
+# elasticsearch-rollover-ingest-plugin
